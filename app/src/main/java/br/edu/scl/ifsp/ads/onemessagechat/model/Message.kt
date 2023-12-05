@@ -11,7 +11,7 @@ import kotlinx.android.parcel.Parcelize
 @Entity
 data class Message (
     @PrimaryKey(autoGenerate = true)
-    var id:Int? = INVALID_CONTACT_ID,
+    var id: Int? = INVALID_CONTACT_ID,
     @NonNull
     var identificador: String = "",
     @NonNull

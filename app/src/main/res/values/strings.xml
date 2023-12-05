@@ -4,4 +4,5 @@
     <string name="msg">Mensagem</string>
     <string name="save">Salvar</string>
     <string name="add_msg">Add mensagem</string>
+    <string name="editar_mensagem">Editar Mensagem</string>
 </resources>
